@@ -17,13 +17,13 @@
 
 [English](README_en.md) | 简体中文 | [繁体中文](README_zh_tw.md)
 
+</div>
+
 ---
 
 > [!IMPORTANT]
 >
 > 如果您是从 GreasyFork 找到这的，建议前往下方的 [安装](#安装) 选择一个合适的源覆盖安装，避免因脚本失效或网络原因导致无法及时更新。
-
-</div>
 
 ## 安装
 
