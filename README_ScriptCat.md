@@ -13,22 +13,21 @@
     <img alt="commit" src="https://img.shields.io/github/commit-activity/m/Hollow-YK/SelectCopy">
     <img alt="stars" src="https://img.shields.io/github/stars/Hollow-YK/SelectCopy?style=social">
 </div>
-<br>
-
----
 
 </div>
 
+---
+
 ## 安装
 
-根据需要选择合适的源，点击链接即可安装
+直接在本站（脚本猫脚本站）安装即可。
 
-> 你需要确保你安装了[篡改猴（油猴，Tampermonkey）](https://www.tampermonkey.net/)或[脚本猫（ScriptCat）](https://scriptcat.org/)等脚本加载器。
+### 其它来源
 
-### 获取
-
-- Github: [SelectCopy.user.js](https://github.com/Hollow-YK/SelectCopy/raw/refs/heads/main/SelectCopy.user.js)
-- 脚本猫: [SelectCopy.user.js](https://scriptcat.org/scripts/code/4638/SelectCopy.user.js)
+| - | jsDelivr | GitHub | 脚本猫 |
+| - | - | - | - |
+| 详情 | - | [SelectCopy](https://github.com/Hollow-YK/SelectCopy/) | [选择复制](https://scriptcat.org/zh-CN/script-show-page/4638) |
+| 安装 | [jsDelivr 源](https://cdn.jsdelivr.net/gh/Hollow-YK/SelectCopy@main/SelectCopy_jsDelivr.user.js) | [GitHub 源](https://github.com/Hollow-YK/SelectCopy/raw/refs/heads/main/SelectCopy.user.js) | [脚本猫源](https://scriptcat.org/scripts/code/4638/%E9%80%89%E6%8B%A9%E5%A4%8D%E5%88%B6.user.js) |
 
 ## 功能
 
@@ -63,4 +62,4 @@
 
 ## 广告
 
-如果觉得好用，可以给点一下右上角的星星~
+如果觉得好用，可以给一个好评哦~

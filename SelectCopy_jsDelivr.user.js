@@ -13,8 +13,8 @@
 // @homepageURL          https://github.com/Hollow-YK/SelectCopy/
 // @support              https://github.com/Hollow-YK/SelectCopy/issues
 // @supportURL           https://github.com/Hollow-YK/SelectCopy/issues
-// @updateURL            https://raw.githubusercontent.com/Hollow-YK/SelectCopy/main/SelectCopy.user.js
-// @downloadURL          https://raw.githubusercontent.com/Hollow-YK/SelectCopy/main/SelectCopy.user.js
+// @updateURL            https://cdn.jsdelivr.net/gh/Hollow-YK/SelectCopy@main/SelectCopy_jsDelivr.user.js
+// @downloadURL          https://cdn.jsdelivr.net/gh/Hollow-YK/SelectCopy@main/SelectCopy_jsDelivr.user.js
 // @connect              *://*/*
 // @grant                GM_registerMenuCommand
 // @grant                GM_unregisterMenuCommand
