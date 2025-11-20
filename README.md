@@ -34,11 +34,8 @@
 
 ### 获取
 
-目前来说，先直接从repo里面拿吧
-<!--- Github: [Hollow-YK/SelectCopy/SelectCopy.user.js](https://github.com/hmjz100/LinkSwift/raw/main/（改）网盘直链下载助手.user.js)
-- OpenUserJS: [Hollow-YK/SelectCopy/SelectCopy.user.js](https://openuserjs.org/install/hmjz100/LinkSwift.user.js)
-- Gitee: [Hollow-YK/SelectCopy/SelectCopy.user.js](https://gitee.com/hmjz100/LinkSwift/raw/main/（改）网盘直链下载助手.user.js)
-- 脚本猫: [Hollow-YK/SelectCopy/SelectCopy.user.js](https://scriptcat.org/scripts/code/1604/LinkSwift.user.js)-->
+- Github: [SelectCopy.user.js](https://github.com/Hollow-YK/SelectCopy/raw/refs/heads/main/SelectCopy.user.js)
+- 脚本猫: [SelectCopy.user.js](https://scriptcat.org/scripts/code/4638/SelectCopy.user.js)
 
 ## 功能
 
