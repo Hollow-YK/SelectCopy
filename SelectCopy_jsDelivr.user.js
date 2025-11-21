@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name                 选择复制
-// @name:zh_CN           选择复制
+// @name:zh-CN           选择复制
 // @name:en              Select & Copy
 // @namespace            https://github.com/Hollow-YK
 // @version              1.0.0
