@@ -38,7 +38,7 @@
 | - | jsDelivr | GitHub | 脚本猫 |
 | - | - | - | - |
 | 详情 | - | [SelectCopy](https://github.com/Hollow-YK/SelectCopy/) | [选择复制](https://scriptcat.org/zh-CN/script-show-page/4638) |
-| 安装 | [jsDelivr 源](https://cdn.jsdelivr.net/gh/Hollow-YK/SelectCopy@main/SelectCopy_jsDelivr.user.js) | [GitHub 源](https://github.com/Hollow-YK/SelectCopy/raw/refs/heads/main/SelectCopy.user.js) / [GitHub 源 min](https://github.com/Hollow-YK/SelectCopy/raw/refs/heads/main/SelectCopy.user.js) | [脚本猫源](https://scriptcat.org/scripts/code/4638/%E9%80%89%E6%8B%A9%E5%A4%8D%E5%88%B6.user.js) |
+| 安装 | [jsDelivr 源](https://cdn.jsdelivr.net/gh/Hollow-YK/SelectCopy@main/SelectCopy_jsDelivr.user.js) | [GitHub 源](https://github.com/Hollow-YK/SelectCopy/raw/refs/heads/main/SelectCopy.user.js) | [脚本猫源](https://scriptcat.org/scripts/code/4638/%E9%80%89%E6%8B%A9%E5%A4%8D%E5%88%B6.user.js) |
 
 ## 功能
 
